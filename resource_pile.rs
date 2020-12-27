@@ -2,7 +2,7 @@ use core::any::Any;
 use std::collections::HashMap;
 use core::any::TypeId;
 /**
-* to compile, rustc --edition=2018 asset_loader.rs && ./asset_loader
+* to compile, rustc --edition=2018 resource_pile.rs && ./resource_pile
 *
 * See fn main() for usage
 * Centralized resource storage & loading
